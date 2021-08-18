@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hankchizljaw/eleventy-from-scratch.git"
+    "url": "https://github.com/yannicklansink/eleventy-netlify-portfolio-2"
   },
   "keywords": [],
   "author": "",
@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/hankchizljaw/eleventy-from-scratch/issues"
   },
-  "homepage": "https://github.com/hankchizljaw/eleventy-from-scratch#readme",
+  "homepage": "https://github.com/yannicklansink",
   "dependencies": {
     "@11ty/eleventy": "^0.11.0"
   }
