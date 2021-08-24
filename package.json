@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/yannicklansink",
   "dependencies": {
-    "@11ty/eleventy": "^0.11.0"
+    "@11ty/eleventy": "^0.11.0",
+    "@11ty/eleventy-cache-assets": "^2.3.0",
+    "moment": "^2.29.1"
   }
 }
