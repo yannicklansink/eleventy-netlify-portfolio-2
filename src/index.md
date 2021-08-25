@@ -1,5 +1,6 @@
 ---
 title: 'Yannick Lansink'
+metaDesc: 'Een blog over informatica van Yannick Lansink'
 layout: 'layouts/home.html'
 intro:
   eyebrow: 'Digital Marketing is our'
